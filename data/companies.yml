@@ -369,6 +369,13 @@ pro_services:
       - "Venturenox helps companies plan and implement Istio service mesh, while taking the performance and security of your application to the next level."
       - "We have been using Istio since 2018, and we have evolved with it, and have built our internal tooling and boilerplate which helps in quickly adopting Istio. We specialize in integrating Istio with DevOps and observability tools to create a high performance infrastructure."
       - "We can work as contractors or as part of your team. We also provide managed services and hands-on trainings for Istio."
+  - name: "RX-M"
+    logo: "/logos/rx-m.svg"
+    url: "https://rx-m.com/"
+    description: "RX-M is a cloud-native and AI training and professional services company, working with Istio since its announcement in 2017."
+    details:
+      - "RX-M can help you maximize your Istio investment, creating designs and solutions that leverage the features you need while avoiding the features and complexity you don't."
+      - "RX-M has been training firms on the Istio and Envoy technologies since Istio's public availibility, including some of the companies founding Istio. We can help you get Istio right."
   - name: "Your Name Here"
     logo: "/logos/istio.svg"
     url: "https://github.com/istio/community/blob/master/CONTRIBUTING.md#promote-your-company-on-istioio"
@@ -651,6 +658,14 @@ training:
     description: "ICA Istio Certified Associate"
     details:
     - "In this 3-day ICA Istio Certified Associate training, you will learn to consolidate your fundamental knowledge of Istio principles, terminology and best practices. You will be able to set up Istio successfully and the course will show you how to put your knowledge into practice in this regard. This course prepares you for the ICA Istio Certified Associate certification."
+  - name: "RX-M"
+    logo: "/logos/rx-m.svg"
+    url: "https://rx-m.com/"
+    description: "RX-M is a cloud-native and AI training and professional services company, working with Istio since its announcement in 2017."
+    details:
+      - "RX-M can help you maximize your Istio investment by empowering your teams with a deeper knowledge of Istio and its best practices."
+      - "RX-M is a Linux Foundation Authorized Training Partner and a CNCF Kubernetes Training Partner, if certification is your goal, our instructor lead, in-person or live-online courses can get you there."
+      - "RX-M has been training firms on the Istio and Envoy technologies since Istio's public availibility, including some of the companies founding Istio. We can help you get Istio right."
   - name: "Your Name Here"
     logo: "/logos/istio.svg"
     url: "https://github.com/istio/community/blob/master/CONTRIBUTING.md#promote-your-company-on-istioio"
